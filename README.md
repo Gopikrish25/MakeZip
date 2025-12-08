@@ -25,3 +25,9 @@ On the terminal the endpoints will be displayed as shown in the below picture.
 ]
 
 Runtime Stack: Python 3.11
+
+
+**DEPLOYMENT**
+1. winget install --exact --id Microsoft.AzureCLI
+2. az login
+3. func azure functionapp publish <APP_NAME>
