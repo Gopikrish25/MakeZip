@@ -309,7 +309,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues] (https://github.com/Gopikrish25/MakeZip/issues)
 - **Discussions**: [GitHub Discussions] (https://github.com/Gopikrish25/MakeZip/discussions)
-- **Email**: [gopi.sankagkrm@outlook.com]
+- **Email**: [gopi.sankagkrm@outlook.com] or [jamesfrancis1947@gmail.com]
 
 ## ⭐ Show Your Support
 
